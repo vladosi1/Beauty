@@ -452,7 +452,7 @@ hr {
 		 grid-row: inherit;
 		 text-align: center;
 	}
-	.footer__info button + .header__info button{
+	.footer__info button+.header__info button {
 		font-size: 14px;
 		color: black;
 		border-radius: 20px;
