@@ -1,0 +1,2 @@
+# Beauty
+Beauty template + Responsive
