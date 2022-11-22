@@ -1,2 +1,2 @@
-# Beauty
+# Vlad Beauty
 Beauty template + Responsive
