@@ -430,6 +430,17 @@ hr {
 }
 
 @media(max-width: 600px) {
+	.header__info button{
+		font-size: 14px;
+		color: #000000;
+		border-radius: 20px;
+		background-color: transparent;
+		border: 2px solid #66c05d;
+		padding: 10px 25px;
+		margin: 0px 0px 0px 20px;
+		cursor: pointer;
+		transition: 0.4s ease;
+	}
 	.header__top {
 		 flex-direction: column;
 	} 
@@ -452,9 +463,9 @@ hr {
 		 grid-row: inherit;
 		 text-align: center;
 	}
-	.footer__info button+.header__info button {
+	.footer__info button {
 		font-size: 14px;
-		color: black;
+		color: #000000;
 		border-radius: 20px;
 		background-color: transparent;
 		border: 2px solid #66c05d;
